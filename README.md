@@ -4,7 +4,7 @@
 🎓 Senior IT Student at **University of Washington - Tacoma**  
 🚀 Passionate about **Software Development, Troubleshooting, and Graphic Design**  
 💡 Always learning and exploring **new technologies**  
-📫 Reach me at: **vectordang@gmail.com**  
+
 
 ## 🛠 Tech Stack
 **Languages:**  
