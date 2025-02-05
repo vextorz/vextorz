@@ -1,4 +1,4 @@
-# Hi there, I'm Vy Dang! 👋
+# Hi there, I'm Vy! 👋
 
 ## 💻 About Me
 🎓 Senior IT Student at **University of Washington - Tacoma**  
